@@ -26,12 +26,17 @@ I’m the kind of person who:
 </p>
 
 
-## 💙 Flutter is My Creative Playground 🎨  
+<p>
+   ## 💙 Flutter is My Creative Playground 🎨
 - I design **modern, clean UIs** that look professional ✨  
 - I write organized, readable Dart code 🧩  
 - I enjoy adding **smooth animations** to enrich the user experience 💫  
 - I build cross-platform apps that work on Android & iOS 📱  
-- Flutter lets me combine creativity and logic perfectly 💛
+- Flutter lets me combine creativity and logic perfectly �
+  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="100" align="right">
+</p>
+
+
 
 
   <p align="center">
@@ -106,6 +111,8 @@ I’m the kind of person who:
 - 🌐 **GitHub:**"https://github.com/fatmamohamed6"  
 - 💼 **LinkedIn:**"https://www.linkedin.com/in/fatma-mohamed-431393381"  
 - 📧 **Email:**"fatmamohamedd64@gmail.com"
+
+  
 
 
   Like My Work?
