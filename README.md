@@ -142,30 +142,64 @@ I’m the kind of person who:
 
 
 
-## 🧰 Tech I Work With 🛠️  
-Here are the tools, languages, and technologies I’m comfortable with:
+## 🛠️ Tech Stack
 
-### 📱 **Mobile & App Development**
-- 💙 **Flutter**
-- 🎯 **Dart**
+### 👩‍💻 Programming & Scripting  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 **Data & Analytics**
-- 🗄️ **SQL**
-- 📊 **Power BI**
-- 🐍 **Python (Basics)**
+---
 
-### 🌐 **Web Development**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> **HTML**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> **CSS**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> **JavaScript**
+### 📱 Mobile Development  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### ☕ **Programming Languages**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" /> **Java**
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" /> **C++**
+---
 
-### 🧠 **Core CS Concepts**
-- 🧩 **OOP (Object-Oriented Programming)**
-- 🧱 **Data Structures**
+### 🌐 Web Development  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📊 Data, Analytics & ML  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4A90E2?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-9B59B6?style=for-the-badge)
+
+---
+
+### 🧠 CS Core  
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-2ECC71?style=for-the-badge)
+
+---
+
+### 🎨 UI/UX  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+### 🧰 Tools & Workspace  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 
 
@@ -185,6 +219,13 @@ Here are the tools, languages, and technologies I’m comfortable with:
 - 🌐 **GitHub:**"https://github.com/fatmamohamed6"  
 - 💼 **LinkedIn:**"https://www.linkedin.com/in/fatma-mohamed-431393381"  
 - 📧 **Email:**"fatmamohamedd64@gmail.com"
+
+
+  Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
 
