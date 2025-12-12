@@ -12,18 +12,7 @@ ur welcome ;)
 -->
 <a href="https://github.com/fatmamohamed6">![Fatma Profile GIF](./assets/profile_presentation.gif)</a>
 
-<!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
-  <p align="center">
-     
-    <a href="https://www.linkedin.com/in/fatma-mohamed-431393381">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
-    <a href="mailto:fatmamohamedd64@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-  </p>
-</h1>
+
 
 <hr>
 
