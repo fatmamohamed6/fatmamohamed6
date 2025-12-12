@@ -1,38 +1,36 @@
 
 <!-- 
 GIF SECTION
-Make sure you have the GIF file at: assets/profile_presentation.gif
-If you don't have the assets folder, create it at the repo root and upload the GIF there.
--->
 
-<a href="https://github.com/fatmamohamed6">
-  <!-- Local relative path (works when GIF is in the same repo) -->
-  <img alt="Fatma Profile GIF" src="./assets/profile_presentation.gif" />
-</a>
+If you wanna know how i made this gif
 
-<!-- If the relative path doesn't work (e.g., you're using profile README and GitHub CDN delays),
-     you can use the raw.githubusercontent link format after uploading the GIF:
-     https://raw.githubusercontent.com/fatmamohamed6/<REPO-NAME>/main/assets/profile_presentation.gif
-     Replace <REPO-NAME> with the repository name and adjust branch if needed.
+I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
+There i made and page with the GIF content, later i record my screen with OBS
+after that i converter the video from mp4 to gif
+ur welcome ;) 
 -->
+<a href="https://github.com/fatmamohamed6">![Fatma Profile GIF](./assets/profile_presentation.gif)</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fatma-mohamed-431393381">
-    <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-  </a>
+  <p align="center">
 
-  <!-- Email -->
-  <a href="mailto:fatmamohamedd64@gmail.com">
-    <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black" alt="Email"/>
-  </a>
-</p>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/fatma-mohamed-431393381">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+    </a>
+
+    <!-- Email -->
+    <a href="mailto:fatmamohamedd64@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black" alt="Email"/>
+    </a>
+
+  </p>
+</h1>
 
 <hr>
 
-<!-- Followers badge renamed from forks -> guys -->
+<!-- Followers badge with label changed from "forks" to "guys" -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/fatmamohamed6?label=guys&style=for-the-badge&color=7cebf5" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/fatmamohamed6?label=guys&style=for-the-badge&color=7cebf5" alt="Guys"/>
 </p>
