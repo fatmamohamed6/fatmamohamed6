@@ -40,18 +40,7 @@ I’m the kind of person who:
   ️
   </div>
 
-  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300"/>
-</div>
-
-
-
-
-
-  <p align="center">
-  <a href="https://giphy.com/gifs/pudgypenguins-penguin-pudgy-pengu-LD2ZJ0pdNmCxFikNQ5" target="_blank">
-    <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Cute Penguin GIF" width="300"/>
-  </a>
-</p>
+  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="130" style="margin-top: 100px;"/>
 
 
 
