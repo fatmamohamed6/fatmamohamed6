@@ -26,15 +26,23 @@ I’m the kind of person who:
 </p>
 
 
-<p>
-   ## 💙 Flutter is My Creative Playground 🎨
+
+   
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    
+ ## 💙 Flutter is My Creative Playground 🎨
 - I design **modern, clean UIs** that look professional ✨  
 - I write organized, readable Dart code 🧩  
 - I enjoy adding **smooth animations** to enrich the user experience 💫  
 - I build cross-platform apps that work on Android & iOS 📱  
 - Flutter lets me combine creativity and logic perfectly �
-  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="100" align="right">
-</p>
+  ️
+  </div>
+
+  <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300"/>
+</div>
+
 
 
 
