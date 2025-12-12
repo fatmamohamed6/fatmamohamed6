@@ -1,4 +1,3 @@
-
 <!-- 
 GIF SECTION
 
@@ -34,3 +33,4 @@ ur welcome ;)
 <p align="center">
   <img src="https://img.shields.io/github/followers/fatmamohamed6?label=guys&style=for-the-badge&color=7cebf5" alt="Guys"/>
 </p>
+لو الـ GIF مش ظاهر — شغلي هذول الاختبارات بسرعة:
