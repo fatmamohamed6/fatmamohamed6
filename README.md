@@ -118,12 +118,11 @@ I’m the kind of person who:
 📱 Brings ideas to life with responsive, user-friendly apps.  
 📈 Builds dashboards and analyses that help people make smarter decisions.
 
-<hr>
+
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
-<hr>
 
 ## 💙 Flutter is My Creative Playground 🎨  
 - I design **modern, clean UIs** that look professional ✨  
@@ -156,13 +155,13 @@ Here are the tools, languages, and technologies I’m comfortable with:
 - 🐍 **Python (Basics)**
 
 ### 🌐 **Web Development**
-- 🌐 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> **HTML**
-- 🎨 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> **CSS**
-- ⚡ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> **JavaScript**
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> **HTML**
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> **CSS**
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> **JavaScript**
 
 ### ☕ **Programming Languages**
-- ☕ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" /> **Java**
-- 🔵 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" /> **C++**
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" /> **Java**
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" /> **C++**
 
 ### 🧠 **Core CS Concepts**
 - 🧩 **OOP (Object-Oriented Programming)**
@@ -178,7 +177,7 @@ Here are the tools, languages, and technologies I’m comfortable with:
 
 
 ## ✨ My Motto  
-> **“Build something today that makes you proud tomorrow — even if it’s a small step.”** 🌟
+> **“Build something today that makes you proud tomorrow — even if it’s a small step.”** ✨
 
 
 
