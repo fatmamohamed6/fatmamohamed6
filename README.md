@@ -17,38 +17,52 @@ I’m the kind of person who:
 ⚡ Learns fast and loves experimenting with new technologies.  
 📱 Brings ideas to life with responsive, user-friendly apps.  
 📈 Builds dashboards and analyses that help people make smarter decisions.
+</br>
 
 
-
+<br>
 <h3 align="left">✨ Random Dev Quote::</h3>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img alt="Dev Quote" src="https://img.shields.io/badge/Quote-%22If%20debugging%20is%20the%20process%20of%20removing%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.%22-7cebf5?style=for-the-badge&logo=ghost" />
+  
+  <em style="font-size:16px;">
+    
+    “If debugging is the process of removing bugs, then programming must be the process of putting them in.”
+  </em>
+  <br>
+  <strong>— Edsger W. Dijkstra</strong>
 </p>
+</br>
 
-
-
- 
-   
-<img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="250" style="margin-top: 100px;"/>
+<br>
 
  
- 
+<img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="220" style="margin-top: 100px;"/>
+
+
+
  ## 💙 Flutter is My Creative Playground 🎨
+ <br>
+
 - I design **modern, clean UIs** that look professional ✨  
 - I write organized, readable Dart code 🧩  
 - I enjoy adding **smooth animations** to enrich the user experience 💫  
 - I build cross-platform apps that work on Android & iOS 📱  
 - Flutter lets me combine creativity and logic perfectly �
  
+<br>
 
-## 📊 Data Analysis: Where Logic Meets Curiosity 🔍  
+## 📊 Data Analysis: Where Logic Meets Curiosity 🔍 
+
 - I write strong **SQL queries** to uncover insights 📜  
 - I clean and prepare datasets efficiently 🧼  
 - I build **Power BI dashboards** that tell stories through visuals 📈  
 - I search for hidden patterns and meaningful trends 🔭  
 - Data analysis helps me understand the “why” behind every problem 💡  
+</br>
 
-
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -86,8 +100,10 @@ I’m the kind of person who:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+</br>
 
 
+<br>
 
 ## 🔥 Currently Building 🔧  
 - UI-focused Flutter projects to improve my design approach 🎨  
@@ -95,23 +111,24 @@ I’m the kind of person who:
 - A well-organized GitHub profile for recruiters & team leads 🗂️  
 
 
+<br>
 
 ## ✨ My Motto  
 > **“Build something today that makes you proud tomorrow — even if it’s a small step.”** ✨
 
-
+<br>
 
 ## 📬 Let’s Connect  
 - 🌐 **GitHub:**"https://github.com/fatmamohamed6"  
 - 💼 **LinkedIn:**"https://www.linkedin.com/in/fatma-mohamed-431393381"  
 - 📧 **Email:**"fatmamohamedd64@gmail.com"
 
-  
 
+<br>
 
   Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 
