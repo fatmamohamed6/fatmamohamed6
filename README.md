@@ -1,41 +1,32 @@
 <!-- 
 GIF SECTION
-
-If you wanna know how i made this gif
-
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
+If you want to know how I made this gif:
+I used a repo + a small page, recorded with OBS and converted mp4 -> gif.
 -->
-<a href="https://github.com/fatmamohamed6">![Fatma Profile GIF](./assets/profile_presentation.gif)</a>
+<a href="https://github.com/fatmamohamed6">
+  <img alt="Fatma Profile GIF" src="./assets/profile_presentation.gif" />
+</a>
 
 <!-- Social icons section -->
 <h1 align="center"> Social Media: </h1>
-  <p align="center">
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/fatma-mohamed-431393381">
+    <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/fatma-mohamed-431393381">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-    </a>
-
-    <!-- Email -->
-    <a href="mailto:fatmamohamedd64@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black" alt="Email"/>
-    </a>
-
-  </p>
-</h1>
+  <!-- Email -->
+  <a href="mailto:fatmamohamedd64@gmail.com">
+    <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=mail.ru&logoColor=black" alt="Email"/>
+  </a>
+</p>
 
 <hr>
 
-<!-- Followers badge with label changed from "forks" to "guys" -->
+<!-- Followers badge with label "guys" -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/fatmamohamed6?label=guys&style=for-the-badge&color=7cebf5" alt="Guys"/>
 </p>
-
-
-<hr>
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
