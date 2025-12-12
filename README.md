@@ -29,7 +29,7 @@ I’m the kind of person who:
 
  
    
-<img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="130" style="margin-top: 100px;"/>
+<img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="130" style="margin-top: 160px;"/>
 
  
  
