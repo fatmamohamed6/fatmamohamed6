@@ -31,7 +31,14 @@ I’m the kind of person who:
 - I write organized, readable Dart code 🧩  
 - I enjoy adding **smooth animations** to enrich the user experience 💫  
 - I build cross-platform apps that work on Android & iOS 📱  
-- Flutter lets me combine creativity and logic perfectly 💛  
+- Flutter lets me combine creativity and logic perfectly 💛
+
+
+  <p align="center">
+  <a href="https://giphy.com/gifs/pudgypenguins-penguin-pudgy-pengu-LD2ZJ0pdNmCxFikNQ5" target="_blank">
+    <img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Cute Penguin GIF" width="300"/>
+  </a>
+</p>
 
 
 
