@@ -35,17 +35,13 @@ I’m the kind of person who:
 </p>
 </br>
 
-<br>
 
- 
-<br>
-
-<img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="220" style="margin-top: 100px;"/>
+<img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" align="right" width="250" style="margin-top: 100px;"/>
 
 
 
  
-<h2>💙 Flutter is My Creative Playground 🎨</h2>
+## 💙 Flutter is My Creative Playground 🎨
 
 - I design **modern, clean UIs** that look professional ✨  
 - I write organized, readable Dart code 🧩  
