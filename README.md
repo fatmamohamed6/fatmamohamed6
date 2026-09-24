@@ -8,17 +8,17 @@
 I’m **Fatma**, a passionate tech lover who enjoys creating things that are both beautiful and meaningful.  
 I work in two worlds that I truly love:
   
-📊 Data Analysis — where I turn raw data into meaningful insights.
-🐍 Python & SQL — for cleaning, analyzing, and exploring data.
-📈 Power BI & Excel — for creating clear dashboards and visual reports.
+.📊 Data Analysis — where I turn raw data into meaningful insights.
+.🐍 Python & SQL — for cleaning, analyzing, and exploring data.
+.📈 Power BI & Excel — for creating clear dashboards and visual reports.
 
 🌸 I'm the kind of person who:
-🔎 Enjoys exploring data and finding meaningful patterns.
-📊 Turns raw data into clear and useful insights.
-🧹 Pays attention to data cleaning and accuracy.
-💡 Loves learning new tools and improving analytical skills.
-📈 Builds dashboards that make data easier to understand.
-🧠 Enjoys solving problems through data-driven thinking
+.🔎 Enjoys exploring data and finding meaningful patterns.
+.📊 Turns raw data into clear and useful insights.
+.🧹 Pays attention to data cleaning and accuracy.
+.💡 Loves learning new tools and improving analytical skills.
+.📈 Builds dashboards that make data easier to understand.
+.🧠 Enjoys solving problems through data-driven thinking
 </br>
 
 
@@ -47,19 +47,19 @@ I work in two worlds that I truly love:
 
 ## 📊 Data Analysis: Where Logic Meets Curiosity 🔍 
 
--• I enjoy exploring datasets and discovering meaningful patterns 🔎
-• I clean and prepare data to make it analysis-ready 🧹
-• I use SQL to query and explore data 🗄️
-• I use Python, Pandas, and NumPy for data analysis 🐍
-• I create dashboards and visualizations using Power BI 📊
-• I enjoy turning complex data into simple insights 💡
+• I enjoy exploring datasets and discovering meaningful patterns 🔎.
+• I clean and prepare data to make it analysis-ready 🧹.
+• I use SQL to query and explore data 🗄️.
+• I use Python, Pandas, and NumPy for data analysis 🐍.
+• I create dashboards and visualizations using Power BI 📊.
+• I enjoy turning complex data into simple insights 💡.
 </br>
 
 <br>
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & BI
+## 📊 Data & BI
 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
