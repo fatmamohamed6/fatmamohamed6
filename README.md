@@ -8,17 +8,28 @@
 I’m **Fatma**, a passionate tech lover who enjoys creating things that are both beautiful and meaningful.  
 I work in two worlds that I truly love:
   
-.📊 Data Analysis — where I turn raw data into meaningful insights.
-.🐍 Python & SQL — for cleaning, analyzing, and exploring data.
-.📈 Power BI & Excel — for creating clear dashboards and visual reports.
+📊 **Data Analysis** — where I turn raw data into meaningful insights. <br>
+🐍 **Python & SQL** — for cleaning, analyzing, and exploring data. <br>
+📈 **Power BI & Excel** — for creating clear dashboards and visual reports.
 
-🌸 I'm the kind of person who:
-.🔎 Enjoys exploring data and finding meaningful patterns.
-.📊 Turns raw data into clear and useful insights.
-.🧹 Pays attention to data cleaning and accuracy.
-.💡 Loves learning new tools and improving analytical skills.
-.📈 Builds dashboards that make data easier to understand.
-.🧠 Enjoys solving problems through data-driven thinking
+🌸 **I'm the kind of person who:** <br>
+🔎 Enjoys exploring data and finding meaningful patterns. <br>
+📊 Turns raw data into clear and useful insights. <br>
+🧹 Pays attention to data cleaning and accuracy. <br>
+💡 Loves learning new tools and improving analytical skills. <br>
+📈 Builds dashboards that make data easier to understand. <br>
+🧠 Enjoys solving problems through data-driven thinking.
+
+### 📊 Data Analysis: Where Logic Meets Curiosity 🔎
+
+• I enjoy exploring datasets and discovering meaningful patterns 🔎. <br>
+• I clean and prepare data to make it analysis-ready 🧹. <br>
+• I use SQL to query and explore data 🗄️. <br>
+• I use Python, Pandas, and NumPy for data analysis 🐍. <br>
+• I create dashboards and visualizations using Power BI 📊. <br>
+• I enjoy turning complex data into simple insights 💡.
+
+
 </br>
 
 
