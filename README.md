@@ -1,7 +1,6 @@
 
-
-
 # ✨ Hey there, I’m **Fatma** — Welcome to My Space! 🚀  
+
 ### Aspiring Data Analyst • Turning Data into Meaningful Insights. 📊
 
 👋 **Hi!**  
@@ -20,14 +19,6 @@ I work in two worlds that I truly love:
 📈 Builds dashboards that make data easier to understand. <br>
 🧠 Enjoys solving problems through data-driven thinking.
 
-### 📊 Data Analysis: Where Logic Meets Curiosity 🔎
-
-• I enjoy exploring datasets and discovering meaningful patterns 🔎. <br>
-• I clean and prepare data to make it analysis-ready 🧹. <br>
-• I use SQL to query and explore data 🗄️. <br>
-• I use Python, Pandas, and NumPy for data analysis 🐍. <br>
-• I create dashboards and visualizations using Power BI 📊. <br>
-• I enjoy turning complex data into simple insights 💡.
 
 
 </br>
@@ -56,14 +47,14 @@ I work in two worlds that I truly love:
 
 <br>
 
-## 📊 Data Analysis: Where Logic Meets Curiosity 🔍 
+### 📊 Data Analysis: Where Logic Meets Curiosity 🔎
 
-• I enjoy exploring datasets and discovering meaningful patterns 🔎.
-• I clean and prepare data to make it analysis-ready 🧹.
-• I use SQL to query and explore data 🗄️.
-• I use Python, Pandas, and NumPy for data analysis 🐍.
-• I create dashboards and visualizations using Power BI 📊.
-• I enjoy turning complex data into simple insights 💡.
+• I enjoy exploring datasets and discovering meaningful patterns. <br>
+• I clean and prepare data to make it analysis-ready. <br>
+• I use SQL to query and explore data. <br>
+• I am currently developing my skills in Python, Pandas, and NumPy. <br>
+• I create dashboards and visualizations using Power BI. <br>
+• I enjoy turning complex data into simple insights.
 </br>
 
 <br>
